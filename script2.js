@@ -1,4 +1,4 @@
- $(document).ready(function() {
+$(document).ready(function() {
     $('.brick').mouseover(function() {
         $(this).css("background-color",randomColor);
 		$(this).css("width",randomSize);
