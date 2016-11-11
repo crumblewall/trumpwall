@@ -15,6 +15,8 @@ var randomColor = function getRandomColor() {
     return color;
 }
 
+/* test */
+
 var randomSize = function getRandomSize() {
     var numbers = '3333456789';
 	var placeholder = '';
