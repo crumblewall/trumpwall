@@ -1,0 +1,13 @@
+
+.black {
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: #000000;
+    display: inline-block;
+	position:static;
+	padding: center;
+	margin: 12.5px;
+    -webkit-transition: all 0.2s; /* For Safari 3.1 to 6.0 */
+    transition: all 0.2s;
+	}
